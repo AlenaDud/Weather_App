@@ -1,0 +1,4 @@
+/venv/
+/.idea/
+/Weather/.env
+Weather/__pycache__

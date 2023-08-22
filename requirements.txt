@@ -1,0 +1,13 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+geojson==2.5.0
+idna==3.4
+IP2Location==8.9.0
+pyowm==3.3.0
+PyQt6==6.5.0
+PyQt6-Qt6==6.5.0
+PyQt6-sip==13.5.0
+PySocks==1.7.1
+python-dotenv==1.0.0
+requests==2.28.2
+urllib3==1.26.15
